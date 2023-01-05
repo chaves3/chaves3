@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaves3 
-- 👀 I’m interested in In Web Programming and Data Analysis
+- 👀 I’m interested In Web Programming and Data Analysis
 - 🌱 I’m currently learning Web development and Database Mysql 
 - 💞️ I’m looking to collaborate on Web and Database Projects with Data Analysis
 - 📫 How to reach me It can be through a message on LinkedIn (https://www.linkedin.com/in/matheus-chaves-aa5600245/) or my website, which is in the final stage of development.
