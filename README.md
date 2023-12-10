@@ -8,8 +8,7 @@
 
 ![Chaves GitHub stats](https://github-readme-stats.vercel.app/api?username=chaves3&show_icons=true&theme=onedark)
 
-## Tecnologias que eu uso no meu dia
-
+## Technology I use in my daily life
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaves3&hide_progress=true)
 
 <div style = "display: inline-block;"><br>
@@ -29,5 +28,5 @@
 - 🌱 I’m currently learning Web development and Database Mysql 
 - 💞️ I’m looking to collaborate on Web and Database Projects with Data Analysis
 
-## E-mail de contato:
+## Contact E-mail:
 matheussilvachaves19@gmail.com
